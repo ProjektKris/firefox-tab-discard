@@ -10,6 +10,7 @@ const discardAllOtherTab = () => {
             active: false,
             discarded: false,
             highlighted: false,
+            pinned: false,
         })
         .then(
             (tabs) => {
