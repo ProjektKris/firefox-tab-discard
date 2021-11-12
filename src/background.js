@@ -11,6 +11,7 @@ const discardAllOtherTab = () => {
             discarded: false,
             highlighted: false,
             pinned: false,
+            audible: false,
         })
         .then(
             (tabs) => {
