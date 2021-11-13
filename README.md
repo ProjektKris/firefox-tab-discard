@@ -18,3 +18,29 @@ Default keyboard shortcut
 
 -   `discard-current-tab`: `Alt+X`
 -   `discard-all-other-tab`: `Alt+Shift+X`
+
+## Running and Building
+
+### Install web-ext
+
+installing web-ext globally is recommended
+
+```
+npm install --global web-ext
+```
+
+### Running
+
+```
+npm test
+```
+
+This does lints and runs the extension as a temporary extension in firefox. By default auto reloading feature is enabled.
+
+### Building
+
+```
+npm run build
+```
+
+This builds an unsigned .zip inside `web-ext-artifacts` folder.
