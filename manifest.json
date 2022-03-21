@@ -21,25 +21,5 @@
             },
             "description": "Discard all inactive background tabs that are not selected."
         }
-    },
-    "browser_action": {
-        "browser_style": true,
-        "theme_icons": [
-            {
-                "light": "icons/firefox_delete_light_16.png",
-                "dark": "icons/firefox_delete_dark_16.png",
-                "size": 16
-            },
-            {
-                "light": "icons/firefox_delete_light_32.png",
-                "dark": "icons/firefox_delete_dark_32.png",
-                "size": 32
-            },
-            {
-                "light": "icons/firefox_delete_light_64.png",
-                "dark": "icons/firefox_delete_dark_64.png",
-                "size": 64
-            }
-        ]
     }
 }
