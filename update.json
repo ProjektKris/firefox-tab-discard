@@ -9,6 +9,10 @@
                 {
                     "version": "0.1.5",
                     "update_link": "https://github.com/ProjektKris/firefox-tab-discard/releases/download/v0.1.5/tab_discard-0.1.5-fx.xpi"
+                },
+                {
+                    "version": "0.1.6",
+                    "update_link": "https://github.com/ProjektKris/firefox-tab-discard/releases/download/v0.1.6/tab_discard-0.1.6-fx.xpi"
                 }
             ]
         }
