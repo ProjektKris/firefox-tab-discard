@@ -21,5 +21,10 @@
             },
             "description": "Discard all inactive background tabs that are not selected."
         }
-    }
+    },
+    "browser_specific_settings": {
+        "gecko": {
+          "update_url": "https://github.com/ProjektKris/firefox-tab-discard/blob/master/update.json"
+        }
+      }
 }
