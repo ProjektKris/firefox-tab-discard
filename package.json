@@ -16,5 +16,9 @@
     "bugs": {
         "url": "https://github.com/ProjektKris/firefox-tab-discard/issues"
     },
-    "homepage": "https://github.com/ProjektKris/firefox-tab-discard#readme"
+    "homepage": "https://github.com/ProjektKris/firefox-tab-discard#readme",
+
+    "webExt": {
+        "sourceDir": "src/"
+      }
 }
